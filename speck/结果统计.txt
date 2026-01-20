@@ -1,0 +1,1 @@
+差分：(0x0040,0x0000) pairs=2 7轮 Best validation accuracy:  0.6473299860954285

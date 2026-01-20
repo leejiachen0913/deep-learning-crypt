@@ -1,0 +1,5 @@
+good_trained_nets/
+student_distinguisher/
+student_distinguisher_knowledge_distillation
+teacher_distinguisher
+gohr_knowledge_distilling
